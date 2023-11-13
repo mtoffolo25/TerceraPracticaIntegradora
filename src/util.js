@@ -48,4 +48,3 @@ export const passportCall = (strategy) => {
 
 
 export default __dirname;
-
